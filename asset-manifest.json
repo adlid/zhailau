@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zhailau/static/css/main.5a4a2b56.chunk.css",
+    "main.js": "/zhailau/static/js/main.401318d3.chunk.js",
+    "main.js.map": "/zhailau/static/js/main.401318d3.chunk.js.map",
+    "runtime-main.js": "/zhailau/static/js/runtime-main.fc810812.js",
+    "runtime-main.js.map": "/zhailau/static/js/runtime-main.fc810812.js.map",
+    "static/js/2.c269c542.chunk.js": "/zhailau/static/js/2.c269c542.chunk.js",
+    "static/js/2.c269c542.chunk.js.map": "/zhailau/static/js/2.c269c542.chunk.js.map",
+    "index.html": "/zhailau/index.html",
+    "static/css/main.5a4a2b56.chunk.css.map": "/zhailau/static/css/main.5a4a2b56.chunk.css.map",
+    "static/js/2.c269c542.chunk.js.LICENSE.txt": "/zhailau/static/js/2.c269c542.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/zhailau/static/media/bbackground.387cf005.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc810812.js",
+    "static/js/2.c269c542.chunk.js",
+    "static/css/main.5a4a2b56.chunk.css",
+    "static/js/main.401318d3.chunk.js"
+  ]
+}
