@@ -16,7 +16,7 @@ export const InnerLayout = styled.div`
     
 `;
 export const ContainerLayout = styled.div`
-    padding:30px;
+    padding: 0 30px;
     max-width: 1120px;
     margin: 0 auto;
 `;

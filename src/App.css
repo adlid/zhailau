@@ -6,3 +6,40 @@
     background-size: cover;
     background-position: center;
 }
+.ant-btn-primary{
+    background: #a9ff73;
+    border: #a9ff73;
+
+}
+.ant-btn-primary:hover{
+     background: #5cff51;
+    border: #a9ff73;
+}
+.ant-input{
+    border-radius: 20px 0px 0px 20px;
+    padding: 10px;
+}
+.ant-input-search .ant-input:hover, .ant-input-search .ant-input:focus {
+    border-color: #a9ff73;
+}
+.ant-input:focus, .ant-input-focused {
+    border-color: #5cff51;
+    border-right-width: 1px !important;
+    outline: 0;
+    box-shadow: 0 0 0 2px #5cff5169;
+}
+.ant-input-group-addon{
+    border-radius: 0 20px 20px 0;
+}
+.ant-input-search > .ant-input-group > .ant-input-group-addon:last-child .ant-input-search-button{
+    border-radius: 0 20px 20px 0;
+}
+.ant-input-search-button {
+    height: 43px;
+}
+.ant-input::placeholder{
+    letter-spacing: 1.1px;
+    font-size: 18px;
+    line-height: 18px;
+
+}

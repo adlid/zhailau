@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    &_input{
+        padding-top: 80px;
+        margin-bottom: 50px;
+    }
+    &_categories{
+        display: flex;
+        justify-content: center;
+    }
+}
+.box{
+    width: 180px;
+    box-shadow: 0px 10px 58px 8px rgba(0, 0, 0, 0.15);
+    height: 180px;
+    border-radius: 50%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    &_img>img{
+        width: 70px;
+        height: 70px;
+    }
+    &+&{
+        margin-left: 10px;
+    }
+    &:hover{
+        transform: scale(1.1);
+    }
+}
